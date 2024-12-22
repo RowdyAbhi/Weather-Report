@@ -1,0 +1,14 @@
+.Searchbox{
+    text-align: center;
+    color: black !important;
+    /* padding: 15px; */
+}
+.input{
+    background-color: white;
+    width: 40vh;
+}
+
+.input:hover{
+    box-shadow: 2px 2px 8px black;
+}
+

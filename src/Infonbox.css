@@ -1,0 +1,11 @@
+.Infobox{
+    text-align: center;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.cardcontainer{
+    display: flex;
+    justify-content: center;
+}
+
