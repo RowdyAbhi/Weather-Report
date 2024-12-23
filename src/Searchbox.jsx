@@ -8,9 +8,7 @@ export default function Searchbox({update}) {
     let [city,setCity]=useState("");
     let [error,setError]=useState(false);
 
-    let API_URL="https://api.openweathermap.org/data/2.5/weather";
-
-    let API_KEY="e81c67e68aa6e700708b1c9629690ba2";
+// Personal Information is deleted.
 
     let getWeatherInfo=async()=>{
         try{
